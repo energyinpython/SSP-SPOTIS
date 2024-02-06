@@ -1,2 +1,2 @@
 # SSP-SPOTIS
-Multi-criteria method with criteria compensation reduction
+Multi-criteria rank reversal free method with modeling of linear criteria compensation reduction
